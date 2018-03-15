@@ -1,0 +1,17 @@
+#header {
+    background-color: #e42b2b;
+    font-size: 50px;
+    font-style: italic;
+    margin: 0 auto;
+}
+#noidung {
+
+    background-image: url(./coin.jpg);
+    background-repeat: no-repeat;
+    font-size: 20px;
+    margin: 0 auto;
+    line-height: 2;
+    border: 2px #092cc5;
+    text-align: center;
+    border: dashed
+}
