@@ -1,0 +1,35 @@
+.aaa {
+    float: left;
+    margin: 10px;
+    border-style: outset;
+    width: 27%;
+}
+.hinhanh {
+    float: left;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.noidung {
+    float: left;
+}
+.footer {
+    margin: 20px;
+}
+.tieude {
+    background: lawngreen;
+    text-align: center;
+    font-size: 30px;
+    margin: 0%;
+    width: 100%;
+}
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    color: maroon;
+}
+.promotion {
+    color: red;
+
+}
+*{
+    background-color: rgb(152, 193, 206);
+}
